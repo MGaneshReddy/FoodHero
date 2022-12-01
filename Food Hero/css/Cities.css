@@ -1,0 +1,99 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 550;
+
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: normal;
+  color: #655d54;
+}
+
+.cities {
+  margin: 2%;
+  text-align: center;
+
+}
+#cities{
+    align-items: center;
+}
+
+.hyd {
+  width: 33%;
+}
+
+.blr {
+  width: 43%;
+}
+
+.maa {
+  width: 36%;
+}
+
+.vizag {
+  width: 33%;
+}
+
+.row {
+  padding: 50px;
+  padding-left: 250px;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  padding: 0px;
+  font-family: "Ubuntu","Times New Roman";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: rgb(193, 173, 160);
+  border-bottom: #ff4c68;
+  border-color: #fff;
+}
+
+.nav-item {
+
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #000;
+}
+.navbar-item{
+  font-size: 30px;
+}
+
+#title1 {
+  background-color: #44434b;
+  color: #fff;
+}
+
+.container-fluid {
+  padding-top: 20px;
+  padding-left: 90px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+/* bottom */
+.bottom-container {
+  padding:  50px 0 20px;
+  background-color: #97969b;
+  text-align: center;
+}
+.footer-link{
+  padding: 20px;
+  color: #fff;
+}

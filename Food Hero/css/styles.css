@@ -1,0 +1,149 @@
+body {
+  font-family: "Montserrat";
+}
+#title{
+  background-image: url("../images/bg.jpg");
+  background-attachment: absolute;
+  background-size:cover;
+  padding:0px 0px 0px 0px;
+  box-shadow: inset 0 0 0 2000px #8984847a;
+  text-align: left;
+}
+h1 {
+  padding-top: 155px;
+  padding-bottom: 0%;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 800;
+  color: #d2daff;
+
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+p {
+  color: rgb(255, 255, 255);
+}
+.ANT{
+  padding:5% 15% 7%;
+}
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+/* Navigation Bar */
+/* Navbar Hover */
+.navbar-brand{
+  padding-left: 90px;
+  padding-top: 30px;
+
+}
+
+
+
+.navbar-brand {
+  font-family: "Ubuntu","Times New Roman";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: rgb(193, 173, 160);
+  border-bottom: #ff4c68;
+  border-color: #fff;
+}
+
+.nav-item {
+
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #000;
+}
+.navbar-item{
+  font-size: 30px;
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+
+/* Features section */
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #FFD1D1;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* Testimonials section */
+#testimonials {
+  text-align: center;
+  background-color: #97969b;
+  color: #fff;
+}
+
+.confess {
+  width: 50%;
+  border-radius: 10%;
+  margin: 20px;
+}
+.confess1 {
+  width: 50%;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #DCD7C9;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/* bottom */
+.bottom-container {
+  padding:  50px 0 20px;
+  background-color: #97969b;
+  text-align: center;
+}
+.footer-link{
+  padding: 20px;
+  color: #fff;
+}
