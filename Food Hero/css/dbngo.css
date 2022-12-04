@@ -1,0 +1,115 @@
+#title {
+  background-color: #44434b;
+  color: #fff;
+}
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+h3 {
+  font-weight: normal;
+  color: #655d54;
+}
+/* Navigation Bar */
+
+
+.navbar-brand {
+  padding: 0px;
+  font-family: "Ubuntu","Times New Roman";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: rgb(193, 173, 160);
+  border-bottom: #ff4c68;
+  border-color: #fff;
+}
+
+.nav-item {
+
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #000;
+}
+.navbar-item{
+  font-size: 30px;
+}
+
+#title {
+  background-color: #44434b;
+  color: #fff;
+}
+
+.container-fluid {
+  padding-top: 20px;
+  padding-left: 90px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+/*Footer*/
+.bottom-container {
+padding:  50px 0 20px;
+background-color: #97969b;
+text-align: center;
+}
+.footer-link{
+padding: 20px;
+color: #fff;
+}
+#card {
+width: 650px;
+height: 295px;
+margin:71px 300px 71px 300px;
+padding-top: 80px;
+padding-bottom: 40px;
+background: #ffffff;
+box-shadow: -20px 0 35px -25px black, 20px 0 35px -25px black;
+z-index: 20;
+}
+
+#card img {
+width: 150px;
+float: left;
+border-radius: 10px;
+border-color: #ff4c68;
+margin-left: 20px;
+margin-right: 20px;
+border-color: #000;
+
+}
+
+#card h2 {
+color: #333;
+margin: 0 auto;
+font-size: 25pt;
+}
+
+#card p {
+color: #555;
+padding: 0%;
+margin: 0%;
+font-size: 20px;
+}
+.input{
+padding-top: 10px;
+font-size: 15px;
+}
+
+.tablee{
+  margin-left: 380px;
+}
